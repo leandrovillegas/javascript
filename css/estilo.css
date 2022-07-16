@@ -95,6 +95,7 @@ small {
     display: flex;
     flex-direction: column;
     width: 100%;
+    background-color: #f7f7f7b5 !important;
 }
 
 .card__wrap--outer {
