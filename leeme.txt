@@ -1,0 +1,17 @@
+Actualizaciones carrito:
+--Main--
+Cuando no pongo nada en busqueda que traiga un array que diga " no tenemos esos productos en nuestra base, escribiste bien" o algo asi , darle enter a la busqueda tambien que funcione
+Que el boton de reestablecer este siempre visible o mas accesible 
+Fijarse bien la combinacion de filtro y orden , creo que falla en alguna.
+OPTIMIZAR CODE
+PONER MAS LINDO TODO
+
+
+--Compra--
+Subir y bajar cantidades Listo	  faltan validaciones listo
+Sweet alert para borrar		Listo
+Mejorar el boton de volver a comprar  Listo
+Agregar un boton que sea "Etapa siguiente" y poner un formulario a validar para enviar el pedido, donde quien como cuando. Validar campos, limpiar todo dsp de confirmar que todo este bien y enviar al index
+
+
+agregar un vaciar carrito en comrpa

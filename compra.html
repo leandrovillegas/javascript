@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="icon" type="image/x-icon" href="img/carrito1.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="css/sweetalert2.min.css">
+
+    <title>Carrito Compras en JavaScript</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="row align-items-stretch justify-content-between">
+                <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+                    <a class="navbar-brand" href="index.html">Entrega Leandro Villegas</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="compracarrito">
+            <h4 class="display-4 mt-4 text-center">ULTIMOS DETALLES!</h4>
+            <div class="container">
+                <form id="procesar-pago">
+                    <div class="form-group row">
+                        <label for="cliente" class="col-12 col-md-2 col-form-label h2">Cliente :</label>
+                        <div class="col-12 col-md-10">
+                            <input type="text" class="form-control" id="cliente" placeholder="Ingrese su nombre"
+                                required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="email" class="col-12 col-md-2 col-form-label h2">Correo :</label>
+                        <div class="col-12 col-md-10">
+                            <input type="email" class="form-control" id="email"  placeholder="Ingrese su email"
+                                required>
+                        </div>
+                    </div>
+                    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 my-4 mx-auto text-center">
+                        <table class="table table-striped">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Imagen </th>
+                                    <th scope="col">Nombre</th>
+                                    <th scope="col">Precio Unitario</th>
+                                    <th scope="col">Cantidad</th>
+                                    <th scope="col">Sub-Total</th>
+                                    <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody id="tabla-carrito">
+
+                            </tbody>
+                        </table>
+                        <div class="container pricing-header px-3 py-3 pt-md-5 pb-md-4 my-4 mx-auto text-center">
+                            <table class="table center">
+                                <tbody id="infoFinal">
+
+                                </tbody>
+                            </table>
+                            <div class="row justify-content-between">
+                                <div class="col-md-4 mb-2">
+                                    <a href="index.html" id="volver" class="btn btn-info btn-block">Seguir
+                                        comprando</a>
+                                </div>
+                                <div class="col-xs-12 col-md-4">
+                                    <a href="" class="btn btn-success btn-block" id="procesar-compra">Realizar
+                                        compra</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/libraries/jquery-3.4.1.min.js"></script>
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="js/articulo.js"></script>
+    <script src="js/carrito.js"></script>
+    <script src="js/renderizado.js"></script>
+    <script src="js/compra.js"></script>
+
+
+</body>
+
+</html>

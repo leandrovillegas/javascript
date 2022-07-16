@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "marca": "playstation",
+        "tipo": "consolas",
+        "nombre": "playstation 4",
+        "img": "img/play4.png",
+        "precio": 124000,
+        "cantidad": 0
+    },
+    {
+        "id": 2,
+        "marca": "sega",
+        "tipo": "consolas",
+        "nombre": "sega",
+        "img": "img/sega.png",
+        "precio": 25000,
+        "cantidad": 0
+    },
+    {
+        "id": 3,
+        "marca": "wiimote",
+        "tipo": "consolas",
+        "nombre": "wii",
+        "img": "img/wii.png",
+        "precio": 78000,
+        "cantidad": 0
+    },
+    {
+        "id": 4,
+        "marca": "nintendo",
+        "tipo": "consolas",
+        "nombre": "nintento ds",
+        "img": "img/dsnintendo.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 5,
+        "marca": "xbox",
+        "tipo": "consolas",
+        "nombre": "xbox",
+        "img": "img/xbox.png",
+        "precio": 100000,
+        "cantidad": 0
+    },
+    {
+        "id": 6,
+        "marca": "playstation",
+        "tipo": "consolas",
+        "nombre": "playstation 3",
+        "img": "img/play3.png",
+        "precio": 85000,
+        "cantidad": 0
+    },
+    {
+        "id": 7,
+        "marca": "xbox",
+        "tipo": "consolas",
+        "nombre": "xbox 360",
+        "img": "img/xbox360.png",
+        "precio": 72000,
+        "cantidad": 0
+    },
+    {
+        "id": 8,
+        "marca": "playstation",
+        "tipo": "consolas",
+        "nombre": "playstation 2",
+        "img": "img/play2.png",
+        "precio": 35000,
+        "cantidad": 0
+    },
+    {
+        "id": 9,
+        "marca": "playstation",
+        "tipo": "consolas",
+        "nombre": "playstation",
+        "img": "img/play.png",
+        "precio": 25000,
+        "cantidad": 0
+    },
+    {
+        "id": 10,
+        "marca": "xbox",
+        "tipo": "consolas",
+        "nombre": "xbox one",
+        "img": "img/xboxone.png",
+        "precio": 67000,
+        "cantidad": 0
+    },
+    {
+        "id": 11,
+        "marca": "sega",
+        "tipo": "consolas",
+        "nombre": "sega saturn",
+        "img": "img/segasaturn.png",
+        "precio": 46000,
+        "cantidad": 0
+    },
+    {
+        "id": 12,
+        "marca": "nintendo",
+        "tipo": "consolas",
+        "nombre": "nintendo switch",
+        "img": "img/nintendoswitch.png",
+        "precio": 39000,
+        "cantidad": 0
+    },
+    {
+        "id": 13,
+        "marca": "google",
+        "tipo": "consolas",
+        "nombre": "stadia",
+        "img": "img/stadia.png",
+        "precio": 90000,
+        "cantidad": 0
+    },
+    {
+        "id": 14,
+        "marca": "playstation",
+        "tipo": "consolas",
+        "nombre": "playstation 5",
+        "img": "img/play5.png",
+        "precio": 150000,
+        "cantidad": 0
+    },
+    {
+        "id": 15,
+        "marca": "xbox",
+        "tipo": "consolas",
+        "nombre": "xbox serie s",
+        "img": "img/xboxseries.png",
+        "precio": 142000,
+        "cantidad": 0
+    },
+    {
+        "id": 16,
+        "marca": "adidas",
+        "tipo": "zapatillas",
+        "nombre": "adidas1",
+        "img": "img/adidas1.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 17,
+        "marca": "adidas",
+        "tipo": "zapatillas",
+        "nombre": "adidas2",
+        "img": "img/adidas2.png",
+        "precio": 10000,
+        "cantidad": 0
+    },
+    {
+        "id": 18,
+        "marca": "adidas",
+        "tipo": "zapatillas",
+        "nombre": "adidas3",
+        "img": "img/adidas3.png",
+        "precio": 18000,
+        "cantidad": 0
+    },
+    {
+        "id": 19,
+        "marca": "adidas",
+        "tipo": "zapatillas",
+        "nombre": "adidas4",
+        "img": "img/adidas4.png",
+        "precio": 19000,
+        "cantidad": 0
+    },
+    {
+        "id": 20,
+        "marca": "nike",
+        "tipo": "zapatillas",
+        "nombre": "nike1",
+        "img": "img/nike1.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 21,
+        "marca": "nike",
+        "tipo": "zapatillas",
+        "nombre": "nike2",
+        "img": "img/nike2.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 22,
+        "marca": "nike",
+        "tipo": "zapatillas",
+        "nombre": "nike3",
+        "img": "img/nike3.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 23,
+        "marca": "nike",
+        "tipo": "zapatillas",
+        "nombre": "nike4",
+        "img": "img/nike4.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 24,
+        "marca": "topper",
+        "tipo": "zapatillas",
+        "nombre": "topper1",
+        "img": "img/topper1.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 25,
+        "marca": "topper",
+        "tipo": "zapatillas",
+        "nombre": "topper2",
+        "img": "img/topper2.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 26,
+        "marca": "topper",
+        "tipo": "zapatillas",
+        "nombre": "topper3",
+        "img": "img/topper3.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 27,
+        "marca": "levis",
+        "tipo": "zapatillas",
+        "nombre": "levis1",
+        "img": "img/levis1.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 28,
+        "marca": "levis",
+        "tipo": "zapatillas",
+        "nombre": "levis2",
+        "img": "img/levis2.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 29,
+        "marca": "vans",
+        "tipo": "zapatillas",
+        "nombre": "vans1",
+        "img": "img/vans1.png",
+        "precio": 20000,
+        "cantidad": 0
+    },
+    {
+        "id": 30,
+        "marca": "vans",
+        "tipo": "zapatillas",
+        "nombre": "vans2",
+        "img": "img/vans2.png",
+        "precio": 20000,
+        "cantidad": 0
+    }
+]
